@@ -1,0 +1,1 @@
+Special thanks to the original game of WORDLE created by Josh Wardle. Visit wordle at https://www.nytimes.com/games/wordle/index.html
